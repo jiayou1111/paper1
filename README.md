@@ -25,5 +25,5 @@ __KDD__
 
 
 __Other__
-1. SAME: sentiment-aware multi-modal embedding for detecting fake news [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342894
+1. SAME: sentiment-aware multi-modal embedding for detecting fake news [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342894)
 2. 
