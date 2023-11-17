@@ -39,6 +39,10 @@ __KDD__
 35. Recent Advances in Multimodal Educational Data Mining in K-12 Education [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406471)
 36. Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403300)
 37. Raise to Speak: An Accurate, Low-power Detector for Activating Voice Assistants on Smartwatches [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330761)
+38. Learning from All Types of Experiences: A Unifying Machine Learning Perspective [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406462)
+39. Attention-based mixture density recurrent networks for history-based recommendation [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3326937.3341254)
+40. Acoustic Measures for Real-Time Voice Coaching [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403326)
+41. Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3332280)
  
 
 __Other__
@@ -46,4 +50,5 @@ __Other__
 2. Estimating distributed representation performance in disaster-related social media classification [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3343680)
 3. News labeling as early as possible: real or fake? [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342957)
 4. Low-supervision urgency detection and transfer in short crisis messages [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342936)
-5. 
+5. CADET: a multi-view learning framework for compromised account detection on Twitter [[PDF]](https://dl.acm.org/doi/pdf/10.5555/3382225.3382325)
+6. Analyzing and modeling user curiosity in online content consumption: a LastFM case study [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342917)
