@@ -44,12 +44,19 @@ __KDD__
 40. Acoustic Measures for Real-Time Voice Coaching [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403326)
 41. Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3332280)
 
-__WWW__
+__ICDE__
+1. Implementation of physiological signal based emotion recognition algorithm [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153878)
+2. Graph Embeddings for One-pass Processing of Heterogeneous Queries [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9101362)
+3. SuRF: Identification of Interesting Data Regions with Surrogate Models [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9101598)
+4. Parameter Discovery in Unsupervised Clustering [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731343)
 
-__Other__
-1. SAME: sentiment-aware multi-modal embedding for detecting fake news [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342894)
-2. Estimating distributed representation performance in disaster-related social media classification [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3343680)
-3. News labeling as early as possible: real or fake? [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342957)
-4. Low-supervision urgency detection and transfer in short crisis messages [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342936)
-5. CADET: a multi-view learning framework for compromised account detection on Twitter [[PDF]](https://dl.acm.org/doi/pdf/10.5555/3382225.3382325)
-6. Analyzing and modeling user curiosity in online content consumption: a LastFM case study [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342917)
+__VLDB__
+1.  Multi-modal transportation recommendation with unified route representation learning [[PDF]](https://dl.acm.org/doi/pdf/10.14778/3430915.3430924)
+
+__SIGMOD__
+1. Unlocking the potential of nextGen multi-model databases for semantic big data projects [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3323878.3325807)
+
+__WWW__
+1. HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128)
+
+
