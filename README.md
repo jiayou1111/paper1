@@ -44,7 +44,14 @@ __KDD__
 40. Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned(2019) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3332280)
 
 __SIGMOD__
-
+1. SVQ: Streaming Video Queries(2019) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3299869.3320230)
+2. The Case for a Learned Sorting Algorithm(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3318464.3389752)
+3. Visual Segmentation for Information Extraction from Heterogeneous Visually Rich Documents(2019) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3299869.3319867)
+4. Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3318464.3389709)
+5. A Method for Optimizing Opaque Filter Queries(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3318464.3389766)
+6. Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data(2019) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3299869.3320224)
+7. SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3318464.3389777)
+8. SpeakQL: Towards Speech-driven Multimodal Querying(2019) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3299869.3300093)
 
 __ICDE__
 1. Implementation of physiological signal based emotion recognition algorithm(2020) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9153878)
@@ -56,6 +63,6 @@ __VLDB__
 1.  Multi-modal transportation recommendation with unified route representation learning(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.14778/3430915.3430924)
 
 __WWW__
-1. HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128)
+1. HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction(2020) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128)
 
 
