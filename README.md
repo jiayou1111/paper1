@@ -3,8 +3,8 @@ Note: classified according to different conferences and sorted by the number of 
 
 __KDD__
 1. LayoutLM: Pre-training of Text and Layout for Document Image Understanding [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403172)
-2.LayoutLM: Pre-training of Text and Layout for Document Image Understanding [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403172)
-3.Multi-Horizon Time Series Forecasting with Temporal Attention Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330662)
+2. LayoutLM: Pre-training of Text and Layout for Document Image Understanding [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403172)
+3. Multi-Horizon Time Series Forecasting with Temporal Attention Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330662)
 4.MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403113)
 5.Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Streams [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330690)
 6.Empowering A* Search Algorithms with Neural Networks for Personalized Route Recommendation [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330824)
