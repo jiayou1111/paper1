@@ -1,4 +1,4 @@
-## Papers whose titles or content mention <multimodel> are all included.
+## Papers whose titles or content mention multimodel are all included.
 Note: classified according to different conferences and sorted by the number of citations.(From 2019 to 2020)
 
 __KDD__
