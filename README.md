@@ -32,18 +32,18 @@ __KDD__
 28. Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403084)
 29. Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406468)
 30. Recent Advances on Graph Analytics and Its Applications in Healthcare [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406469)
-31. Estimating distributed representation performance in disaster-related social media classification [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3343680)
-32. News labeling as early as possible: real or fake? [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342957)
-33. Identifiability of Cause and Effect using Regularized Regression [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330854)
-34. Low-supervision urgency detection and transfer in short crisis messages [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342936)
-35. Learning Instrument Invariant Characteristics for Generating High-resolution Global Coral Reef Maps [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403312)
-36. Image and Video Understanding for Recommendation and Spam Detection Systems [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406485)
-37. Building Recommender Systems with PyTorch [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406714)
-38. Recent Advances in Multimodal Educational Data Mining in K-12 Education [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406471)
-39. Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403300)
-40. Raise to Speak: An Accurate, Low-power Detector for Activating Voice Assistants on Smartwatches [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330761)
-41. 
+31. Identifiability of Cause and Effect using Regularized Regression [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330854)
+32. Learning Instrument Invariant Characteristics for Generating High-resolution Global Coral Reef Maps [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403312)
+33. Image and Video Understanding for Recommendation and Spam Detection Systems [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406485)
+34. Building Recommender Systems with PyTorch [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406714)
+35. Recent Advances in Multimodal Educational Data Mining in K-12 Education [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3406471)
+36. Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403300)
+37. Raise to Speak: An Accurate, Low-power Detector for Activating Voice Assistants on Smartwatches [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3292500.3330761)
+ 
 
 __Other__
 1. SAME: sentiment-aware multi-modal embedding for detecting fake news [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342894)
-2. 
+2. Estimating distributed representation performance in disaster-related social media classification [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3343680)
+3. News labeling as early as possible: real or fake? [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342957)
+4. Low-supervision urgency detection and transfer in short crisis messages [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3341161.3342936)
+5. 
